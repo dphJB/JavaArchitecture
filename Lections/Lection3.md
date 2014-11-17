@@ -1,8 +1,9 @@
-Lection3
+Взаимодействие с источниками данных
 ===
-Работа с БД
+
 ---
-* Основные архитектурные шаблоны: Table model, Active Record, ORM, UnitOfWork, DataTableGate
+* Основные архитектурные шаблоны: Table model, Active Record, ORM, UnitOfWork, DataTableGateway, 
+Проблемы с CRUD, транзакции и прочие сложности 
 * JDBC
 * Spring templates
 * DAO temlates, CRUD
